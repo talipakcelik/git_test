@@ -1,2 +1,3 @@
 22 KAsım 2021'den selamlar
 OdinProject ile yola devam
+commit ederken terminalde yorum eklemedik, sanırım tırnak işareti içerisine almak gerekiyormuş
